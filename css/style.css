@@ -1,0 +1,31 @@
+.block {
+width: 300px;
+height: 150px;
+background-color: rgb(219, 219, 219);
+border-style:  solid; color: rgb(199, 199, 199);
+}
+
+.item1, .item2, .item3 {
+color: rgb(122, 122, 122);
+}
+
+.block2 {
+width: 300px;
+height: 150px;
+font-size: 30px;
+background-color: rgb(161, 161, 161);
+border-style:  solid; color:rgb(145, 145, 145) ;
+}
+
+.item4, .item5, .item6 {
+color: #494949;
+}
+
+
+
+.list2 {
+font-size: 20px;
+color: #313131;
+text-transform: uppercase;
+}
+
